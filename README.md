@@ -22,12 +22,15 @@ To install application:
    `npm install'
    
    FOR DEV SERVER
+   
    `npm run dev`
    
    TO BUILD 
+   
    `npm run build`
    
    TO PREVIEW BUILT SITE
+   
    `npm run preview`
 
 
