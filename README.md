@@ -1,5 +1,6 @@
-# /react-info-site/
 # BASIC SITE THAT SHOWS YOU INFORMATIOON ABOUT REACT JS
+
+## /react-info-site/
 
 ## Getting Started
 
