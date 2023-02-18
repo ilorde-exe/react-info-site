@@ -1,6 +1,8 @@
 # BASIC SITE THAT SHOWS YOU INFORMATION ABOUT REACT JS
 
 ## /react-info-site/
+#### hosted at-
+https://ilorde-exe.github.io/react-info-site/
 
 ## Getting Started
 
