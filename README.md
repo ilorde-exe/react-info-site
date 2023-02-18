@@ -23,7 +23,7 @@ To install application:
   
    `cd <FILE LOCATION>`
    
-   `npm install'
+   `npm install`
    
    FOR DEV SERVER
    
