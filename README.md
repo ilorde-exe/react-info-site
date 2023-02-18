@@ -22,6 +22,7 @@ To install application:
 2. Install node modules to build the app.
   
    `cd <FILE LOCATION>`
+   
    `npm install'
    
    FOR DEV SERVER
